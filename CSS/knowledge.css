@@ -1,0 +1,11 @@
+body {
+	background-image:url("../images/ahegao.jpg");
+}
+
+pre {
+	text-align:center;
+	margin-top:18%;
+	font-size:400%;
+	color: pink;
+	text-shadow: -10px 0 purple, 0 10px purple, 10px 0 purple, 0 -10px purple;
+}
